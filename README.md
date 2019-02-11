@@ -3,8 +3,9 @@
 
 Программа писалась чисто для своих нужд, может кому и понадобиться еще =)
 
-Написана она на Lazarus и только для Windows.
+Прототип идеи был создан в http://algoritm2.ru Идея понравилась и была переписана на Lazarus, после нескольких улушений программы, возможностей (или моих знаний) Lazarus стало не хватать и я снова переписал на прогу на Delphi 10.3.
+Программа написана для Windows.
 
 Фото программы:
 
-<img src="https://github.com/Galavarez/Test-pages-for-Printer/blob/master/img.png" width="640" height="480"/>
+<img src="https://github.com/Galavarez/Test-pages-for-Printer/blob/master/img 2.3.png" width="640" height="480"/>
