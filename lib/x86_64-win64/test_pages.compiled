@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\LazarusDev\Lazarus2.0.0\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -WG -l -vewnhibq &quot;-FiC:\LazarusDev\test pages\lib\x86_64-win64&quot; -FuC:\LazarusDev\Lazarus2.0.0\components\printers\lib\x86_64-win64\win32 -FuC:\LazarusDev\Lazarus2.0.0\components\cairocanvas\lib\x86_64-win64\win32 -FuC:\LazarusDev\Lazarus2.0.0\lcl\units\x86_64-win64\win32 -FuC:\LazarusDev\Lazarus2.0.0\lcl\units\x86_64-win64 -FuC:\LazarusDev\Lazarus2.0.0\components\lazutils\lib\x86_64-win64 -FuC:\LazarusDev\Lazarus2.0.0\packager\units\x86_64-win64 &quot;-FuC:\LazarusDev\test pages\&quot; &quot;-FUC:\LazarusDev\test pages\lib\x86_64-win64\&quot; &quot;-FEC:\LazarusDev\test pages\&quot; &quot;-oC:\LazarusDev\test pages\test_pages.exe&quot; -dLCL -dLCLwin32 test_pages.lpr"/>
-</CONFIG>
