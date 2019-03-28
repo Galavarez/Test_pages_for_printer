@@ -8,4 +8,4 @@
 
 Фото программы:
 
-<img src="https://github.com/Galavarez/Test-pages-for-Printer/blob/master/Test_pages_2.4.12.png" width="640" height="480"/>
+<img src="https://github.com/Galavarez/Test-pages-for-Printer/blob/master/Test_pages_2.4.12.png" width="100%" height="100%"/>
